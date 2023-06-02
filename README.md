@@ -8,7 +8,7 @@ Link to the website : [Drummer](https://sumitmule.github.io/drummer/)
 2. Code Editor : VS Code
 
 ### Screenshot : 
-<img src="https://github.com/sumitmule/drummer/blob/main/image.png" width="800">
+![image](https://github.com/sumitmule/drummer/blob/main/image.png)
 
 ### Things implemented in this project :
 
